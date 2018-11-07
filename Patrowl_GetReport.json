@@ -8,10 +8,10 @@
     "dataTypeList": ["fqdn", "domain", "ip"],
     "baseConfig": "Patrowl",
     "config": {
-      "url": "http://dev.patrowl.io:8000",
+      "url": "http://my.patrowl.io:8000",
       "service": "getreport",
-      "username": "xxx",
-      "password": "xxx"
+      "username": "cortex",
+      "password": "Bonjour1!"
     },
     "configurationItems": [
       {
